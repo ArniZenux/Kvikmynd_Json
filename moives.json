@@ -1,0 +1,21 @@
+[
+    {
+        "Id": "1",
+        "Title": "Saving Private Ryan",
+        "Year": "1998",
+        "Genre": "Drama, War",
+        "Actors": "Tom Hanks, Tom Sizemore, Edward Burns, Matt Damon",
+        "Plot": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+        "Lauguage": "English, Icelandic",
+        "Poster": "https:\/\/images-na.ssl-images-amazon.com\/images\/M\/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg"
+    },
+    {
+        "Id": "2",
+        "Title": "L\u00e9on: The Professional",
+        "Genre": "Crime, Drama",
+        "Actors": "Jean Reno, Gary Oldman, Natalie Portman, Danny Aiello",
+        "Plot": "Mathilda, a 12-year-old girl, is reluctantly taken in by L\u00e9on, a professional assassin, after her family is murdered. L\u00e9on and Mathilda form an unusual relationship, as she becomes his prot\u00e9g\u00e9e and learns the assassin's trade.",
+        "Language": "English, Icelandic",
+        "Poster": "https:\/\/images-na.ssl-images-amazon.com\/images\/M\/MV5BMjdjMGU3MGYtN2Y5ZC00MTE4LWE4YWQtMTBhMjc3MTk0ZDUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+    }
+]
